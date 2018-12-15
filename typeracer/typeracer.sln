@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "typeracer", "typeracer\typeracer.csproj", "{1059807D-972F-4CA2-9498-400BB8DEF3A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTyperacer", "UnitTestTyperacer\UnitTestTyperacer.csproj", "{F0C9EBDA-4410-4BD9-8909-42366729387A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1059807D-972F-4CA2-9498-400BB8DEF3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1059807D-972F-4CA2-9498-400BB8DEF3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1059807D-972F-4CA2-9498-400BB8DEF3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C9EBDA-4410-4BD9-8909-42366729387A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C9EBDA-4410-4BD9-8909-42366729387A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C9EBDA-4410-4BD9-8909-42366729387A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C9EBDA-4410-4BD9-8909-42366729387A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

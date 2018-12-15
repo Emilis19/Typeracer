@@ -11,10 +11,10 @@ namespace typeracer
     {
         static void Main(string[] args)
         {
-            
+            // simple factory - creating an object for other objects, calling objects, methods to new();
             Texts texts = new Texts();
 
-
+            // behavioural - strategy, real time selection of algorithm
             texts.GenerateStartingTexts();
             while (true)
             {

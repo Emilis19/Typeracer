@@ -5,3 +5,10 @@ C:\Users\Emilis\Desktop\typeracer\typeracer\typeracer\obj\Debug\typeracer.csproj
 C:\Users\Emilis\Desktop\typeracer\typeracer\typeracer\obj\Debug\typeracer.csproj.CoreCompileInputs.cache
 C:\Users\Emilis\Desktop\typeracer\typeracer\typeracer\obj\Debug\typeracer.exe
 C:\Users\Emilis\Desktop\typeracer\typeracer\typeracer\obj\Debug\typeracer.pdb
+C:\Users\Emilis\Desktop\Programming\typeracer\typeracer\typeracer\bin\Debug\typeracer.exe.config
+C:\Users\Emilis\Desktop\Programming\typeracer\typeracer\typeracer\bin\Debug\typeracer.exe
+C:\Users\Emilis\Desktop\Programming\typeracer\typeracer\typeracer\bin\Debug\typeracer.pdb
+C:\Users\Emilis\Desktop\Programming\typeracer\typeracer\typeracer\obj\Debug\typeracer.csprojAssemblyReference.cache
+C:\Users\Emilis\Desktop\Programming\typeracer\typeracer\typeracer\obj\Debug\typeracer.csproj.CoreCompileInputs.cache
+C:\Users\Emilis\Desktop\Programming\typeracer\typeracer\typeracer\obj\Debug\typeracer.exe
+C:\Users\Emilis\Desktop\Programming\typeracer\typeracer\typeracer\obj\Debug\typeracer.pdb

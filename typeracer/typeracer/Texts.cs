@@ -9,8 +9,9 @@ namespace typeracer
     
    public class Texts
     {
-        string realText;
-        List<string> text = new List<string>();
+       public string realText;
+       public List<string> text = new List<string>();
+
 
 
         public void GenerateStartingTexts()
@@ -19,9 +20,6 @@ namespace typeracer
             text.Add("My journey was very melancholy, at first I wanted to hurry on, for I longed to console and sympathise with my loved and sorrowing friends, but when I drew near my native town I slackened my progress");
             text.Add("The village of Longbourn was only one mile from Meryton, a most convenient distance for the young ladies who were usually tempted thither three or four times a week");
         }
-
-
-        //  string[] text = { "Vienas, du, trys keturi penki, sesi.", "Septyni, astuoni, devyni, desimt", "Vienuolika, dvylika, trylika, keturiolika" };
 
         public void WriteStrings()
         {
